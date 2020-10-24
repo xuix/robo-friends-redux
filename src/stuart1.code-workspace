@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "smart-brain",
+			"path": "..\\..\\smart-brain\\smart-brain"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
